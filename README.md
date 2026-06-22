@@ -1,4 +1,4 @@
-E-Report — Sistem Pelaporan Pengaduan Layanan Masyarakat
+E-Report Sistem Pelaporan Pengaduan Layanan Masyarakat
 Proyek Ujian Akhir Semester (UAS) Mata Kuliah Pemrograman Web 2.
 
 E-Report adalah sistem informasi berbasis web yang memudahkan masyarakat dalam menyampaikan pengaduan terkait layanan publik, seperti kerusakan infrastruktur, gangguan keamanan, kebersihan lingkungan, pelayanan publik, hingga bencana alam. Sistem ini dibangun dengan Decoupled Architecture, memisahkan secara penuh antara server (backend) dan klien (frontend).
